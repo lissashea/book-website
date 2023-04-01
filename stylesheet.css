@@ -97,6 +97,10 @@ img {
   transform-origin: 0% 50%;
   transform: translatez(-3px);
   background: #f5f5f5;
+  display: flex;
+  line-height: 1.6;
+  align-content: center;
+  flex-wrap: wrap;
 }
 
 .left-side:nth-child(3) {
