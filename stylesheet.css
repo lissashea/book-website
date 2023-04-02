@@ -88,7 +88,7 @@ img {
   padding: 5% 5% 4% 4%;
   transform-origin: 100% 50%;
   transform: translatez(-2px) scalex(-1) translatex(100%);
-  background-color: #a2d2ad;
+  background:linear-gradient(#a2d2ad, #a2d2ad) 50% 50%/80% 86% no-repeat, linear-gradient(#ffffff, #ffffff) 50% 50%/90% 93% no-repeat, linear-gradient(#a2d2ad, #a2d2ad) no-repeat;
 }
 
 .page:nth-child(2) {
